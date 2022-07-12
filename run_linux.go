@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strconv"
 
-	"github.com/u2takey/go-utils/rand"
+	"github.com/lvjonok/ffmpeg-go/internal/rand"
 )
 
 const (

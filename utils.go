@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/u2takey/go-utils/sets"
+	"github.com/lvjonok/ffmpeg-go/internal/sets"
 )
 
 func getString(item interface{}) string {
